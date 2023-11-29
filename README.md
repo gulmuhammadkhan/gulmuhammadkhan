@@ -1,31 +1,29 @@
 
-![Blue Orange Illustration Business Marketing Blog Banner (2)](https://github.com/iuzairaslam/iuzairaslam/assets/89253314/0bcaee4c-03f2-43da-9db5-2d6efb571c5c)
-
-
+![Blue Orange Illustration Business Marketing Blog Banner](https://github.com/gulmuhammadkhan/gulmuhammadkhan/assets/152378229/4098dfdf-6a10-4e62-9d76-f1d3bdd0094d)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iuzairaslam&label=Profile%20views&color=0e75b6&style=flat" alt="iuzairaslam" /> </p>
 
 
-- 🔭 I’m currently working in [BuiltinSoft](https://builtinsoft.com)
+- 🔭 I’m currently working in [Punjab Information Technology Board (PITB)](https://www.linkedin.com/in/gul-muhammad-khan-5639401a2/)
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [iuzairaslam](https://github.com/iuzairaslam?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/gulmuhammadkhan?tab=repositories)
 
 - 💬 Ask me about **Flutter Frontend & Backend , Firebase**
 
 - ⚡ Fun fact **I can code 24/7 😉**
 
-- 🤝 [Let's Work Together!](https://www.upwork.com/freelancers/uzairaslam) 
+- 🤝 [Let's Work Together!](https://www.linkedin.com/in/gul-muhammad-khan-5639401a2/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/iuzairaslam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iuzairaslam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19136888/uzair-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12141512" height="30" width="40" /></a>
-<a href="https://www.facebook.com/iuzairabbasi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iuzairaslam" height="30" width="40" /></a>
-<a href="https://twitter.com/iuzairaslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iuzairaslam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gul-muhammad-khan-5639401a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iuzairaslam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gul-muhammad-khan-5639401a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12141512" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gul-muhammad-khan-5639401a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iuzairaslam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gul-muhammad-khan-5639401a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iuzairaslam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
